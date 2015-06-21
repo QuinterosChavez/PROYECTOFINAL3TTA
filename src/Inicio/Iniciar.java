@@ -10,7 +10,7 @@ import sun.security.util.Password;
 
 /**
  *
- * @author Jhumari Soto
+ * @author Jhoel Ramos
  */
 public class Iniciar extends javax.swing.JFrame {
 

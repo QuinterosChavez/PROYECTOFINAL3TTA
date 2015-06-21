@@ -7,7 +7,7 @@ package Inicio;
 
 /**
  *
- * @author JHOEL
+ * @author Yalina Quinteros
  */
 public class frmCosultarPersona extends javax.swing.JFrame {
 

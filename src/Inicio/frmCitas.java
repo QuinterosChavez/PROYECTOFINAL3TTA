@@ -7,7 +7,7 @@ package Inicio;
 
 /**
  *
- * @author Jhumari Soto
+ * @author Aydee Pacco
  */
 public class frmCitas extends javax.swing.JFrame {
 

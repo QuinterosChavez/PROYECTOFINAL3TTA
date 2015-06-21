@@ -7,7 +7,7 @@ package Registro;
 
 /**
  *
- * @author Jhumari Soto
+ * @author Aydee pacco
  */
 public class Cliente {
      protected String nombre;

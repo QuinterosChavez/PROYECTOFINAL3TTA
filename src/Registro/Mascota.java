@@ -7,7 +7,7 @@ package Registro;
 
 /**
  *
- * @author Jhumari Soto
+ * @author yalina Quinteros
  */
 public class Mascota {
      private String nombreCliente;

@@ -19,7 +19,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Jhumari Soto
+ * @author Aydee Pacco
  */
 public class frmCliente extends javax.swing.JFrame {
  DefaultListModel listModel = new DefaultListModel();
